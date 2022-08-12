@@ -1,3 +1,4 @@
+
 1 今日はgit道場に参加してるよ！!!!!!!!!!!
 2 どんな編集をしたらいいかわからない hogefuga
 4 hoge
@@ -10,6 +11,10 @@
 10 hoge
 11 hogeeeeee
 12 hoge
-13 hoge
+13 hoge1
 14 hoge
-15 fugafuga
+15 fuga
+
+
+あおの
+さ
